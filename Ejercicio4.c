@@ -1,4 +1,8 @@
-
+En este ejercicio se apunta a un entero, en el 3.c se apu taba a un caracter 
+Por lo que el apuntador tambièn tiene que ser un entero *apEnt
+Despuès b se iguala con el apuntador de entero a, entonces b vala a, a=5 entonces b=5
+    despuès se le suma uno al apEnt entonces b=
+    y despuès se iguala a con apEnt y ahora a=0
 
 #include<stdio.h>
 int main () 
