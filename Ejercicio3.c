@@ -1,7 +1,11 @@
 *ap apuntador
 para guardar un dato se usa un &
 scanf lee una localidad de memoria
-
+El  nos muestra la direcciòn de memoria
+Còdigo ASCII 
+Se accede a c por medio del asterisco apuntador
+c es una variable del tipo caracter
+pero se imprime la localidad de memoria de donde esta a
 
 #include <stdio.h>
 int main () 
